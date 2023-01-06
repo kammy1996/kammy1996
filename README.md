@@ -9,7 +9,7 @@ I am a full-stack Developer with over 5 years of experience building scalable, p
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [Code with kamran](http://codewithkamran.com/)
 * ✉️  You can contact me at [kamranmemon25@gmail.com](mailto:kamranmemon25@gmail.com)
-* 🧠  I'm learning Everything Javascript
+* 🧠  I'm learning everything about Javascript
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
