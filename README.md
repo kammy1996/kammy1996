@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I am a full-stack Developer with over 5 years of experience building scalable, performant, and user-friendly web applications. I have experience in building applications in various industries including Fintech, Healthcare, and travel.
+I’m a full-stack developer with 8+ years of experience building scalable, high-performance, and user-friendly web applications. Over the years, I’ve worked across diverse industries including fintech, healthcare, and travel developing solutions that are both technically robust and thoughtfully designed.
+
+My journey has taken me through multiple product companies, where I’ve been deeply involved in the software development lifecycle (SDLC), from ideation to deployment. I’m also well-versed in SCRUM and agile methodologies, ensuring smooth collaboration across teams.
+
+With a strong foundation in design, I have a sharp eye for detail, and frontend development remains my strongest skillset. My first love in web development is Vue.js, and I’ve been an active contributor and advocate of the framework ever since. That said, I’m equally comfortable working across the stack, building performant and scalable backend solutions.
+
+Beyond coding, I believe effective communication is just as crucial as technical expertise. I enjoy mentoring, sharing insights, and discussing new ideas over coffee with fellow developers. I also create content on LinkedIn and Twitter, where I document my learning, experiences, and thoughts on software development.
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [Code with kamran](http://codewithkamran.com/)
