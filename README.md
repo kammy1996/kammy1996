@@ -6,7 +6,7 @@ Full-Stack Developer
 
 I’m a full-stack developer with 8+ years of experience building scalable, high-performance, and user-friendly web applications. Over the years, I’ve worked across diverse industries including fintech, healthcare, and travel developing solutions that are both technically robust and thoughtfully designed.
 
-My journey has taken me through multiple product companies, where I’ve been deeply involved in the software development lifecycle (SDLC), from ideation to deployment. I’m also well-versed in SCRUM and agile methodologies, ensuring smooth collaboration across teams.
+My journey has taken me through multiple product companies, where I’ve been deeply involved in the SDLC, from ideation to deployment. I’m also well-versed in SCRUM and agile methodologies, ensuring smooth collaboration across teams.
 
 With a strong foundation in design, I have a sharp eye for detail, and frontend development remains my strongest skillset. My first love in web development is Vue.js, and I’ve been an active contributor and advocate of the framework ever since. That said, I’m equally comfortable working across the stack, building performant and scalable backend solutions.
 
